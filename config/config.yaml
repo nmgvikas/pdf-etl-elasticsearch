@@ -1,0 +1,6 @@
+paths:
+  input_dir: "data"
+
+elasticsearch:
+  url: "http://localhost:9200"
+  index: "pdf_documents"
